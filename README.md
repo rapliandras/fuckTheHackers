@@ -1,7 +1,8 @@
 fuckTheHackers
 ==============
 
-Show random error messages for hackers only.
+What if you could change the error messages on your site to mislead hackers? Fake the fingerprint of your system, expose fake paths, table names or throw errors in plugins not even on your system! FuckTheHackers does just that. The fuckTheHackers library replaces all existing exceptions with forged ones.
+
 
 Usage
 ====
